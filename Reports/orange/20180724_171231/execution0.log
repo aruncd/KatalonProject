@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553149</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/orange</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">orange</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/orange</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553167</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;slk - WSLK1FFTRFW-22&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">slk - WSLK1FFTRFW-22</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553168</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 7 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 7 64bit</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553168</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;10.10.10.31&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.10.10.31</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553169</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;5.5.0.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">5.5.0.1</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553431</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Login1/login</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Login1/login</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Login1/login</property>
+  <property name="source">C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Test Cases\\Login1\\login.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553451</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553714</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553991</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Opening browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:12:33</date>
+  <millis>1532432553997</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:12:34</date>
+  <millis>1532432554022</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577483</millis>
+  <sequence>12</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;cea0f233a27aa9ac19798a28aad4dccb&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">cea0f233a27aa9ac19798a28aad4dccb</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577526</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;browser&amp;apos; with value &amp;apos;Chrome 67.0.3396.99&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 67.0.3396.99</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577526</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;platform&amp;apos; with value &amp;apos;Windows 7&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 7</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577529</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;seleniumVersion&amp;apos; with value &amp;apos;3.7.1&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577530</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;proxyInformation&amp;apos; with value &amp;apos;ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577531</millis>
+  <sequence>17</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577531</millis>
+  <sequence>18</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577532</millis>
+  <sequence>19</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">24</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577553</millis>
+  <sequence>20</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking url</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:12:57</date>
+  <millis>1532432577558</millis>
+  <sequence>21</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigating to &amp;apos;https://opensource-demo.orangehrmlive.com&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582414</millis>
+  <sequence>22</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://opensource-demo.orangehrmlive.com&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582415</millis>
+  <sequence>23</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582416</millis>
+  <sequence>24</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582426</millis>
+  <sequence>25</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582453</millis>
+  <sequence>26</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582454</millis>
+  <sequence>27</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking text</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582454</millis>
+  <sequence>28</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582463</millis>
+  <sequence>29</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername&amp;apos; located by &amp;apos;By.xpath: //input[@name = &amp;apos;txtUsername&amp;apos; and @id = &amp;apos;txtUsername&amp;apos; and @type = &amp;apos;text&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582480</millis>
+  <sequence>30</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername&amp;apos; located by &amp;apos;By.xpath: //input[@name = &amp;apos;txtUsername&amp;apos; and @id = &amp;apos;txtUsername&amp;apos; and @type = &amp;apos;text&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582480</millis>
+  <sequence>31</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clearing text of object &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582499</millis>
+  <sequence>32</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582500</millis>
+  <sequence>33</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername&amp;apos; located by &amp;apos;By.xpath: //input[@name = &amp;apos;txtUsername&amp;apos; and @id = &amp;apos;txtUsername&amp;apos; and @type = &amp;apos;text&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582509</millis>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername&amp;apos; located by &amp;apos;By.xpath: //input[@name = &amp;apos;txtUsername&amp;apos; and @id = &amp;apos;txtUsername&amp;apos; and @type = &amp;apos;text&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582514</millis>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Setting text of object &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername&amp;apos; to value &amp;apos;Admin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582553</millis>
+  <sequence>36</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Admin&amp;apos; is set on object &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582553</millis>
+  <sequence>37</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582554</millis>
+  <sequence>38</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582554</millis>
+  <sequence>39</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582558</millis>
+  <sequence>40</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582558</millis>
+  <sequence>41</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking text</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582558</millis>
+  <sequence>42</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582559</millis>
+  <sequence>43</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword&amp;apos; located by &amp;apos;By.xpath: //input[@name = &amp;apos;txtPassword&amp;apos; and @id = &amp;apos;txtPassword&amp;apos; and @type = &amp;apos;password&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582574</millis>
+  <sequence>44</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword&amp;apos; located by &amp;apos;By.xpath: //input[@name = &amp;apos;txtPassword&amp;apos; and @id = &amp;apos;txtPassword&amp;apos; and @type = &amp;apos;password&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582574</millis>
+  <sequence>45</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clearing text of object &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582591</millis>
+  <sequence>46</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582592</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword&amp;apos; located by &amp;apos;By.xpath: //input[@name = &amp;apos;txtPassword&amp;apos; and @id = &amp;apos;txtPassword&amp;apos; and @type = &amp;apos;password&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582600</millis>
+  <sequence>48</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword&amp;apos; located by &amp;apos;By.xpath: //input[@name = &amp;apos;txtPassword&amp;apos; and @id = &amp;apos;txtPassword&amp;apos; and @type = &amp;apos;password&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582600</millis>
+  <sequence>49</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Setting text of object &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword&amp;apos; to value &amp;apos;admin123&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582639</millis>
+  <sequence>50</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;admin123&amp;apos; is set on object &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582639</millis>
+  <sequence>51</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582639</millis>
+  <sequence>52</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582640</millis>
+  <sequence>53</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/input_Submit&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582652</millis>
+  <sequence>54</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582652</millis>
+  <sequence>55</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582652</millis>
+  <sequence>56</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/input_Submit&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;submit&amp;apos; and @name = &amp;apos;Submit&amp;apos; and @id = &amp;apos;btnLogin&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582668</millis>
+  <sequence>57</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/input_Submit&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;submit&amp;apos; and @name = &amp;apos;Submit&amp;apos; and @id = &amp;apos;btnLogin&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:02</date>
+  <millis>1532432582669</millis>
+  <sequence>58</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/input_Submit&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:04</date>
+  <millis>1532432584965</millis>
+  <sequence>59</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Login1objects/Page_OrangeHRM/input_Submit&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:04</date>
+  <millis>1532432584966</millis>
+  <sequence>60</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:04</date>
+  <millis>1532432584966</millis>
+  <sequence>61</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Login1/login</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:04</date>
+  <millis>1532432584967</millis>
+  <sequence>62</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Login1/login</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:04</date>
+  <millis>1532432584969</millis>
+  <sequence>63</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/ValidateLinks/validateLinks</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/ValidateLinks/validateLinks</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/ValidateLinks/validateLinks</property>
+  <property name="source">C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Test Cases\\ValidateLinks\\validateLinks.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:04</date>
+  <millis>1532432584983</millis>
+  <sequence>64</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585132</millis>
+  <sequence>65</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585133</millis>
+  <sequence>66</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Directory&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585147</millis>
+  <sequence>67</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585147</millis>
+  <sequence>68</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585148</millis>
+  <sequence>69</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;20&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585150</millis>
+  <sequence>70</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Directory&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;Directory&amp;apos; or . = &amp;apos;Directory&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585166</millis>
+  <sequence>71</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Directory&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;Directory&amp;apos; or . = &amp;apos;Directory&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585167</millis>
+  <sequence>72</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Directory&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585167</millis>
+  <sequence>73</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585167</millis>
+  <sequence>74</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">24</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585168</millis>
+  <sequence>75</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Leave&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585172</millis>
+  <sequence>76</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585172</millis>
+  <sequence>77</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585173</millis>
+  <sequence>78</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;20&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585173</millis>
+  <sequence>79</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Leave&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;Leave&amp;apos; or . = &amp;apos;Leave&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585188</millis>
+  <sequence>80</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Leave&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;Leave&amp;apos; or . = &amp;apos;Leave&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585188</millis>
+  <sequence>81</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Leave&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585189</millis>
+  <sequence>82</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585189</millis>
+  <sequence>83</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585190</millis>
+  <sequence>84</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_PIM&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585193</millis>
+  <sequence>85</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585193</millis>
+  <sequence>86</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585194</millis>
+  <sequence>87</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;20&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585194</millis>
+  <sequence>88</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_PIM&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;PIM&amp;apos; or . = &amp;apos;PIM&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585208</millis>
+  <sequence>89</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_PIM&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;PIM&amp;apos; or . = &amp;apos;PIM&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585208</millis>
+  <sequence>90</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_PIM&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585209</millis>
+  <sequence>91</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585209</millis>
+  <sequence>92</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585209</millis>
+  <sequence>93</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Recruitment&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585212</millis>
+  <sequence>94</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585213</millis>
+  <sequence>95</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585213</millis>
+  <sequence>96</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;20&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585214</millis>
+  <sequence>97</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Recruitment&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;Recruitment&amp;apos; or . = &amp;apos;Recruitment&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585227</millis>
+  <sequence>98</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Recruitment&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;Recruitment&amp;apos; or . = &amp;apos;Recruitment&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585227</millis>
+  <sequence>99</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Recruitment&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585228</millis>
+  <sequence>100</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585228</millis>
+  <sequence>101</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585228</millis>
+  <sequence>102</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Time&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585231</millis>
+  <sequence>103</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585231</millis>
+  <sequence>104</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585232</millis>
+  <sequence>105</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;20&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585232</millis>
+  <sequence>106</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Time&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;Time&amp;apos; or . = &amp;apos;Time&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585246</millis>
+  <sequence>107</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Time&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;Time&amp;apos; or . = &amp;apos;Time&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585247</millis>
+  <sequence>108</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/ValidateLinks/Page_OrangeHRM/b_Time&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585247</millis>
+  <sequence>109</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585247</millis>
+  <sequence>110</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/ValidateLinks/validateLinks</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585247</millis>
+  <sequence>111</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/ValidateLinks/validateLinks</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585250</millis>
+  <sequence>112</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Role Change/change Role</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Role Change/change Role</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Role Change/change Role</property>
+  <property name="source">C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Test Cases\\Role Change\\change Role.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585257</millis>
+  <sequence>113</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585417</millis>
+  <sequence>114</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585417</millis>
+  <sequence>115</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585421</millis>
+  <sequence>116</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585421</millis>
+  <sequence>117</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585421</millis>
+  <sequence>118</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;PIM&amp;apos; or . = &amp;apos;PIM&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585429</millis>
+  <sequence>119</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;PIM&amp;apos; or . = &amp;apos;PIM&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:05</date>
+  <millis>1532432585430</millis>
+  <sequence>120</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:06</date>
+  <millis>1532432586993</millis>
+  <sequence>121</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:06</date>
+  <millis>1532432586994</millis>
+  <sequence>122</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:06</date>
+  <millis>1532432586994</millis>
+  <sequence>123</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">24</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:06</date>
+  <millis>1532432586995</millis>
+  <sequence>124</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Employee List&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587002</millis>
+  <sequence>125</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587003</millis>
+  <sequence>126</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587004</millis>
+  <sequence>127</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Employee List&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;/index.php/pim/viewEmployeeList/reset/1&amp;apos; and @id = &amp;apos;menu_pim_viewEmployeeList&amp;apos; and (text() = &amp;apos;Employee List&amp;apos; or . = &amp;apos;Employee List&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587029</millis>
+  <sequence>128</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Employee List&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;/index.php/pim/viewEmployeeList/reset/1&amp;apos; and @id = &amp;apos;menu_pim_viewEmployeeList&amp;apos; and (text() = &amp;apos;Employee List&amp;apos; or . = &amp;apos;Employee List&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587030</millis>
+  <sequence>129</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Employee List&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587567</millis>
+  <sequence>130</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Employee List&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587567</millis>
+  <sequence>131</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587567</millis>
+  <sequence>132</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587569</millis>
+  <sequence>133</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587575</millis>
+  <sequence>134</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587575</millis>
+  <sequence>135</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587576</millis>
+  <sequence>136</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;/index.php/pim/viewEmployee/empNumber/9&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587595</millis>
+  <sequence>137</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 3 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;/index.php/pim/viewEmployee/empNumber/9&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:07</date>
+  <millis>1532432587596</millis>
+  <sequence>138</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589064</millis>
+  <sequence>139</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589065</millis>
+  <sequence>140</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589065</millis>
+  <sequence>141</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589065</millis>
+  <sequence>142</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589080</millis>
+  <sequence>143</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589080</millis>
+  <sequence>144</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589080</millis>
+  <sequence>145</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;button&amp;apos; and @id = &amp;apos;btnSave&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589099</millis>
+  <sequence>146</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;button&amp;apos; and @id = &amp;apos;btnSave&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589099</millis>
+  <sequence>147</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589146</millis>
+  <sequence>148</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589147</millis>
+  <sequence>149</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589147</millis>
+  <sequence>150</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByValue</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589147</millis>
+  <sequence>151</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589162</millis>
+  <sequence>152</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589162</millis>
+  <sequence>153</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking value parameter</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589162</millis>
+  <sequence>154</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589163</millis>
+  <sequence>155</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; located by &amp;apos;By.xpath: //select[@name = &amp;apos;personal[cmbNation]&amp;apos; and @id = &amp;apos;personal_cmbNation&amp;apos; and (text() = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos; or . = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589179</millis>
+  <sequence>156</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; located by &amp;apos;By.xpath: //select[@name = &amp;apos;personal[cmbNation]&amp;apos; and @id = &amp;apos;personal_cmbNation&amp;apos; and (text() = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos; or . = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589200</millis>
+  <sequence>157</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Selecting options on object &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; with value &amp;apos;10&amp;apos; using regular expression</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:09</date>
+  <millis>1532432589442</millis>
+  <sequence>158</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Option at index &amp;apos;10&amp;apos; with value &amp;apos;10&amp;apos; is selected  using regular expression</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590317</millis>
+  <sequence>159</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>All options with value &amp;apos;10&amp;apos; are selected in object &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos;  using regular expression</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590318</millis>
+  <sequence>160</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByValue</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590318</millis>
+  <sequence>161</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : getText</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590319</millis>
+  <sequence>162</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590329</millis>
+  <sequence>163</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590330</millis>
+  <sequence>164</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590330</millis>
+  <sequence>165</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; located by &amp;apos;By.xpath: //select[@name = &amp;apos;personal[cmbNation]&amp;apos; and @id = &amp;apos;personal_cmbNation&amp;apos; and (text() = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos; or . = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590340</millis>
+  <sequence>166</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; located by &amp;apos;By.xpath: //select[@name = &amp;apos;personal[cmbNation]&amp;apos; and @id = &amp;apos;personal_cmbNation&amp;apos; and (text() = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos; or . = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590340</millis>
+  <sequence>167</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Getting text of object &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590449</millis>
+  <sequence>168</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text of object &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; is: &amp;apos;-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590450</millis>
+  <sequence>169</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : getText</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590450</millis>
+  <sequence>170</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">34</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590450</millis>
+  <sequence>171</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590454</millis>
+  <sequence>172</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590454</millis>
+  <sequence>173</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590454</millis>
+  <sequence>174</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;button&amp;apos; and @id = &amp;apos;btnSave&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590464</millis>
+  <sequence>175</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;button&amp;apos; and @id = &amp;apos;btnSave&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:10</date>
+  <millis>1532432590464</millis>
+  <sequence>176</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:11</date>
+  <millis>1532432591748</millis>
+  <sequence>177</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:11</date>
+  <millis>1532432591749</millis>
+  <sequence>178</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:11</date>
+  <millis>1532432591750</millis>
+  <sequence>179</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">36</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:11</date>
+  <millis>1532432591751</millis>
+  <sequence>180</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:11</date>
+  <millis>1532432591756</millis>
+  <sequence>181</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:11</date>
+  <millis>1532432591757</millis>
+  <sequence>182</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:11</date>
+  <millis>1532432591758</millis>
+  <sequence>183</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;PIM&amp;apos; or . = &amp;apos;PIM&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:11</date>
+  <millis>1532432591774</millis>
+  <sequence>184</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos; located by &amp;apos;By.xpath: //b[(text() = &amp;apos;PIM&amp;apos; or . = &amp;apos;PIM&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:11</date>
+  <millis>1532432591775</millis>
+  <sequence>185</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:12</date>
+  <millis>1532432592657</millis>
+  <sequence>186</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/b_PIM&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:12</date>
+  <millis>1532432592658</millis>
+  <sequence>187</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:12</date>
+  <millis>1532432592658</millis>
+  <sequence>188</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">38</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:12</date>
+  <millis>1532432592658</millis>
+  <sequence>189</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:12</date>
+  <millis>1532432592662</millis>
+  <sequence>190</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:12</date>
+  <millis>1532432592662</millis>
+  <sequence>191</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:12</date>
+  <millis>1532432592663</millis>
+  <sequence>192</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;/index.php/pim/viewEmployee/empNumber/9&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:12</date>
+  <millis>1532432592674</millis>
+  <sequence>193</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 3 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;/index.php/pim/viewEmployee/empNumber/9&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:12</date>
+  <millis>1532432592675</millis>
+  <sequence>194</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593594</millis>
+  <sequence>195</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/a_Jasmine&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593595</millis>
+  <sequence>196</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593595</millis>
+  <sequence>197</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyOptionSelectedByValue</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">40</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593596</millis>
+  <sequence>198</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593619</millis>
+  <sequence>199</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593620</millis>
+  <sequence>200</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking value</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593620</millis>
+  <sequence>201</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593620</millis>
+  <sequence>202</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;20&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593621</millis>
+  <sequence>203</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; located by &amp;apos;By.xpath: //select[@name = &amp;apos;personal[cmbNation]&amp;apos; and @id = &amp;apos;personal_cmbNation&amp;apos; and (text() = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos; or . = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593630</millis>
+  <sequence>204</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; located by &amp;apos;By.xpath: //select[@name = &amp;apos;personal[cmbNation]&amp;apos; and @id = &amp;apos;personal_cmbNation&amp;apos; and (text() = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos; or . = &amp;apos;\n-- Select --\nAfghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguans\nArgentinean\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBarbudans\nBatswana\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabe\nBurmese\nBurundian\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjibouti\nDominican\nDutch\nEast Timorese\nEcuadorean\nEgyptian\nEmirian\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFilipino\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinea-Bissauan\nGuinean\nGuyanese\nHaitian\nHerzegovinian\nHonduran\nHungarian\nI-Kiribati\nIcelander\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKittian and Nevisian\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMacedonian\nMalagasy\nMalawian\nMalaysian\nMaldivan\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonacan\nMongolian\nMoroccan\nMosotho\nMotswana\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNigerien\nNorth Korean\nNorthern Irish\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSan Marinese\nSao Tomean\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovakian\nSlovenian\nSolomon Islander\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamer\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTuvaluan\nUgandan\nUkrainian\nUruguayan\nUzbekistani\nVenezuelan\nVietnamese\nWelsh\nYemenite\nZambian\nZimbabwean\n&amp;apos;)]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593640</millis>
+  <sequence>205</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Counting number of options with value &amp;apos;10&amp;apos; present on object &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:13</date>
+  <millis>1532432593735</millis>
+  <sequence>206</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Option at index &amp;apos;10&amp;apos; with value &amp;apos;10&amp;apos; is present </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:14</date>
+  <millis>1532432594588</millis>
+  <sequence>207</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Counting number of options with value &amp;apos;10&amp;apos; selected on object &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:16</date>
+  <millis>1532432596782</millis>
+  <sequence>208</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Option at index &amp;apos;10&amp;apos; with value &amp;apos;10&amp;apos; is selected </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597554</millis>
+  <sequence>209</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>All options with value &amp;apos;10&amp;apos; are selected in object &amp;apos;Object Repository/change nationality/Page_OrangeHRM/select_-- Select --AfghanAlban&amp;apos; </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597555</millis>
+  <sequence>210</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyOptionSelectedByValue</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597555</millis>
+  <sequence>211</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">43</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597555</millis>
+  <sequence>212</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597558</millis>
+  <sequence>213</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597558</millis>
+  <sequence>214</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597558</millis>
+  <sequence>215</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;button&amp;apos; and @id = &amp;apos;btnSave&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597573</millis>
+  <sequence>216</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;button&amp;apos; and @id = &amp;apos;btnSave&amp;apos;]&amp;apos; in &amp;apos;20&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597574</millis>
+  <sequence>217</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597626</millis>
+  <sequence>218</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/change nationality/Page_OrangeHRM/input_btnSave&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597626</millis>
+  <sequence>219</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597626</millis>
+  <sequence>220</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Role Change/change Role</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:17</date>
+  <millis>1532432597626</millis>
+  <sequence>221</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Role Change/change Role</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:13:18</date>
+  <millis>1532432598306</millis>
+  <sequence>222</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/orange</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

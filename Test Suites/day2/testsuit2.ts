@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>testsuit2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>20</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>6117a94e-eac1-4b85-b76a-84fcae22c374</testSuiteGuid>
+   <testCaseLink>
+      <guid>aadea226-ffec-4d19-a608-85cf15da047f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Day2/test3</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9c2a1c66-b106-4709-9b0e-99dfa39b8133</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/day2/testdata2</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>51c58fc5-87b4-4f6b-ad65-977ad13eb26b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>40110344-6f48-4147-a459-52825fb409ac</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

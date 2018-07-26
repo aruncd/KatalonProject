@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_col-md-2</name>
+   <tag></tag>
+   <elementGuidId>81ab64e3-8df5-4b62-a40e-b9e0c63f62b1</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid text-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 text-left&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;dual-list list-right col-md-5&quot;]/div[@class=&quot;well&quot;]/div[@id=&quot;listhead&quot;]/div[@class=&quot;col-md-2&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

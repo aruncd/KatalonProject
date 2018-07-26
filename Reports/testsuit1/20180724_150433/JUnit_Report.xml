@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="testsuit1" time="127" tests="1" failures="1" errors="0">
+   <testsuite name="testsuit1" tests="1" failures="1" errors="0" time="127" timestamp="2018-07-24 15:04:35" hostname="slk - WSLK1FFTRFW-22" id="Test Suites/testsuit1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Reports\\testsuit1\\20180724_150433"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Reports\\testsuit1\\20180724_150433\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Reports\\testsuit1\\20180724_150433\\1532424928878.png"/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-22"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Firefox 51.0"/>
+         <property name="hostAddress" value="10.10.10.31"/>
+         <property name="sessionId" value="28cbda7c-bf8e-480e-a810-c2455a3ae04e"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/login/test1" classname="Test Cases/login/test1" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Page_CURA Healthcare Service/button_Login' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/button_Login' located by 'By.xpath: //button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]' not found)"/>
+         <system-out><![CDATA[2018-07-24 15:04:35 - [TEST_CASE][FAILED] - Test Cases/login/test1: Test Cases/login/test1 FAILED because (of) Unable to click on object 'Object Repository/Page_CURA Healthcare Service/button_Login' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/button_Login' located by 'By.xpath: //button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]' not found)
+
+2018-07-24 15:04:36 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 15:05:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 15:05:07 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 15:05:08 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 15:05:08 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Page_CURA Healthcare Service/button_Login' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/button_Login' located by 'By.xpath: //button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]' not found)
+
+2018-07-24 15:05:30 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_CURA Healthcare Service/button_Login' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/button_Login' located by 'By.xpath: //button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]' not found)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Reports\\testsuit1\\20180724_150433\\1532424928878.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-24 15:04:35 - [TEST_CASE][FAILED] - Test Cases/login/test1: Test Cases/login/test1 FAILED because (of) Unable to click on object 'Object Repository/Page_CURA Healthcare Service/button_Login' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/button_Login' located by 'By.xpath: //button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]' not found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login/test2" classname="Test Cases/login/test2" status="PASSED">
+         <system-out><![CDATA[2018-07-24 15:05:30 - [TEST_CASE][PASSED] - Test Cases/login/test2: Test Cases/login/test2
+
+2018-07-24 15:05:30 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 15:05:30 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-24 15:05:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 15:05:58 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 15:05:59 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 15:05:59 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'We Care About Your Health' is present on page 
+
+2018-07-24 15:05:59 - [MESSAGE][PASSED] - Text 'We Care About Your Health' is present on page 
+
+2018-07-24 15:05:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/test2/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-24 15:06:00 - [MESSAGE][PASSED] - Object: 'Object Repository/test2/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-24 15:06:00 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/test2/Page_CURA Healthcare Service/input_username'
+
+2018-07-24 15:06:00 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/test2/Page_CURA Healthcare Service/input_username'
+
+2018-07-24 15:06:00 - [TEST_STEP][PASSED] - setText: Text 'ThisIsNotAPassword' is set on object 'Object Repository/test2/Page_CURA Healthcare Service/input_password'
+
+2018-07-24 15:06:00 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/test2/Page_CURA Healthcare Service/input_password'
+
+2018-07-24 15:06:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/test2/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-24 15:06:01 - [MESSAGE][PASSED] - Object: 'Object Repository/test2/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-24 15:06:01 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-24 15:06:02 - [MESSAGE][PASSED] - Browser is closed
+
+2018-07-24 15:06:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-07-24 15:06:31 - [MESSAGE][PASSED] - Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-07-24 15:06:31 - [TEST_STEP][PASSED] - refresh: Refresh successfully
+
+2018-07-24 15:06:43 - [MESSAGE][PASSED] - Refresh successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 15:04:35 - [TEST_SUITE][FAILED] - testsuit1: Test Cases/login/test1 FAILED because (of) Unable to click on object 'Object Repository/Page_CURA Healthcare Service/button_Login' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/button_Login' located by 'By.xpath: //button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]' not found)]]></system-out>
+      <system-err><![CDATA[2018-07-24 15:04:35 - [TEST_SUITE][FAILED] - testsuit1: Test Cases/login/test1 FAILED because (of) Unable to click on object 'Object Repository/Page_CURA Healthcare Service/button_Login' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_CURA Healthcare Service/button_Login' located by 'By.xpath: //button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]' not found)]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="orange" time="56" tests="2" failures="1" errors="0">
+   <testsuite name="orange" tests="2" failures="1" errors="0" time="56" timestamp="2018-07-24 16:22:42" hostname="slk - WSLK1FFTRFW-22" id="Test Suites/orange">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Reports\\orange\\20180724_162241"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Reports\\orange\\20180724_162241\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Reports\\orange\\20180724_162241\\1532429618443.png"/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-22"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.10.10.31"/>
+         <property name="sessionId" value="c44206cf7035141a33dc9ffd269ab6cf"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Login1/login" classname="Test Cases/Login1/login" status="PASSED">
+         <system-out><![CDATA[2018-07-24 16:22:42 - [TEST_CASE][PASSED] - Test Cases/Login1/login: Test Cases/Login1/login
+
+2018-07-24 16:22:43 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 16:23:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 16:23:07 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com' successfully
+
+2018-07-24 16:23:11 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com' successfully
+
+2018-07-24 16:23:11 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername'
+
+2018-07-24 16:23:11 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtUsername'
+
+2018-07-24 16:23:11 - [TEST_STEP][PASSED] - setText: Text 'admin123' is set on object 'Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword'
+
+2018-07-24 16:23:11 - [MESSAGE][PASSED] - Text 'admin123' is set on object 'Object Repository/Login1objects/Page_OrangeHRM/Page_OrangeHRM/input_txtPassword'
+
+2018-07-24 16:23:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login1objects/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-24 16:23:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Login1objects/Page_OrangeHRM/input_Submit' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/ValidateLinks/validateLinks" classname="Test Cases/ValidateLinks/validateLinks" status="PASSED">
+         <system-out><![CDATA[2018-07-24 16:23:15 - [TEST_CASE][PASSED] - Test Cases/ValidateLinks/validateLinks: Test Cases/ValidateLinks/validateLinks
+
+2018-07-24 16:23:15 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_Directory' is present
+
+2018-07-24 16:23:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '20'
+
+2018-07-24 16:23:15 - [MESSAGE][PASSED] - Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_Directory' is present
+
+2018-07-24 16:23:15 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_Leave' is present
+
+2018-07-24 16:23:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '20'
+
+2018-07-24 16:23:15 - [MESSAGE][PASSED] - Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_Leave' is present
+
+2018-07-24 16:23:15 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_PIM' is present
+
+2018-07-24 16:23:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '20'
+
+2018-07-24 16:23:15 - [MESSAGE][PASSED] - Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_PIM' is present
+
+2018-07-24 16:23:15 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_Recruitment' is present
+
+2018-07-24 16:23:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '20'
+
+2018-07-24 16:23:15 - [MESSAGE][PASSED] - Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_Recruitment' is present
+
+2018-07-24 16:23:15 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_Time' is present
+
+2018-07-24 16:23:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '20'
+
+2018-07-24 16:23:15 - [MESSAGE][PASSED] - Object 'Object Repository/ValidateLinks/Page_OrangeHRM/b_Time' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Role Change/change Role" classname="Test Cases/Role Change/change Role" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' located by 'By.xpath: //a[@href = '/index.php/pim/viewEmployee/empNumber/9' and (text() = 'Jasmine' or . = 'Jasmine')]' not found)"/>
+         <system-out><![CDATA[2018-07-24 16:23:15 - [TEST_CASE][FAILED] - Test Cases/Role Change/change Role: Test Cases/Role Change/change Role FAILED because (of) Unable to click on object 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' located by 'By.xpath: //a[@href = '/index.php/pim/viewEmployee/empNumber/9' and (text() = 'Jasmine' or . = 'Jasmine')]' not found)
+
+2018-07-24 16:23:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/change nationality/Page_OrangeHRM/b_PIM' is clicked on
+
+2018-07-24 16:23:17 - [MESSAGE][PASSED] - Object: 'Object Repository/change nationality/Page_OrangeHRM/b_PIM' is clicked on
+
+2018-07-24 16:23:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/change nationality/Page_OrangeHRM/a_Employee List' is clicked on
+
+2018-07-24 16:23:17 - [MESSAGE][PASSED] - Object: 'Object Repository/change nationality/Page_OrangeHRM/a_Employee List' is clicked on
+
+2018-07-24 16:23:17 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' located by 'By.xpath: //a[@href = '/index.php/pim/viewEmployee/empNumber/9' and (text() = 'Jasmine' or . = 'Jasmine')]' not found)
+
+2018-07-24 16:23:38 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' located by 'By.xpath: //a[@href = '/index.php/pim/viewEmployee/empNumber/9' and (text() = 'Jasmine' or . = 'Jasmine')]' not found)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-22.040\\Katalon Studio\\Demo\\Reports\\orange\\20180724_162241\\1532429618443.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-24 16:23:15 - [TEST_CASE][FAILED] - Test Cases/Role Change/change Role: Test Cases/Role Change/change Role FAILED because (of) Unable to click on object 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' located by 'By.xpath: //a[@href = '/index.php/pim/viewEmployee/empNumber/9' and (text() = 'Jasmine' or . = 'Jasmine')]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 16:22:42 - [TEST_SUITE][FAILED] - orange: Test Cases/Role Change/change Role FAILED because (of) Unable to click on object 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' located by 'By.xpath: //a[@href = '/index.php/pim/viewEmployee/empNumber/9' and (text() = 'Jasmine' or . = 'Jasmine')]' not found)]]></system-out>
+      <system-err><![CDATA[2018-07-24 16:22:42 - [TEST_SUITE][FAILED] - orange: Test Cases/Role Change/change Role FAILED because (of) Unable to click on object 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/change nationality/Page_OrangeHRM/a_Jasmine' located by 'By.xpath: //a[@href = '/index.php/pim/viewEmployee/empNumber/9' and (text() = 'Jasmine' or . = 'Jasmine')]' not found)]]></system-err>
+   </testsuite>
+</testsuites>

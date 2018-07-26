@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+testsuit1,Chrome 67.0.3396.99,,2018-07-24 17:52:59,2018-07-24 17:53:46,46.862s,FAILED
+,,,,,,
+Test Cases/login/test1,Chrome 67.0.3396.99,abcd,2018-07-24 17:52:59,2018-07-24 17:53:45,45.931s,FAILED
+openBrowser,Chrome 67.0.3396.99,,2018-07-24 17:53:00,2018-07-24 17:53:23,23.816s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-07-24 17:53:23,2018-07-24 17:53:24,0.703s,PASSED
+click,Chrome 67.0.3396.99,,2018-07-24 17:53:24,2018-07-24 17:53:45,21.112s,FAILED
